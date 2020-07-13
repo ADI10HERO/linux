@@ -2,7 +2,7 @@
 VERSION = 5
 PATCHLEVEL = 8
 SUBLEVEL = 0
-EXTRAVERSION = -rc3
+EXTRAVERSION = -rc3-kuro-eudyptula
 NAME = Kleptomaniac Octopus
 
 # *DOCUMENTATION*
